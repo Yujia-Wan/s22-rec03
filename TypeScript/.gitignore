@@ -2,5 +2,3 @@ node_modules/
 coverage/
 .vscode/
 dist/
-../.DS_Store
-../Java/rec3.iml
